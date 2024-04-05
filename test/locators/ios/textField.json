@@ -1,0 +1,4 @@
+{
+    "textField":"~Text Fields",
+    "defaultTextBox":"(//XCUIElementTypeTextField[@value='Placeholder text'])[1]"
+}

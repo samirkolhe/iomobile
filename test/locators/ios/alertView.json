@@ -1,0 +1,11 @@
+{
+    "alertViews" : "//XCUIElementTypeStaticText[@name='Alert Views']",
+    "simpleAlertText": "//XCUIElementTypeStaticText[@name='A Short Title Is Best']",
+    "simpleMenu":{
+        "simple" : "~Simple",
+        "okCancelButton": "~Okay / Cancel",
+        "other": "~Other",
+        "simpleAlert": "//XCUIElementTypeStaticText[@name='A Short Title Is Best']",
+        "ok":"~OK"
+    }
+}
